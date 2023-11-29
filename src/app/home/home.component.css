@@ -1,0 +1,23 @@
+.form-inline{
+    display:flex;
+}
+.nav-link{
+    margin-left: 14px;
+    margin-right: 14px;
+    font-size: 17px;
+    
+  }
+  /* a:active{
+    border:1px solid black;
+    border-radius: 25px;
+  } */
+  /* .navbar{
+    opacity:0.5;
+  } */
+  button{
+    margin-right: 30px;
+  }
+
+  .foot{
+    margin-top: 1000px;
+  }
